@@ -50,7 +50,7 @@ render.yaml     konfiguracja wdrożenia
 
 ## Aplikacja
 
-https://ADRES-APLIKACJI.onrender.com
+https://laboratorium-eda-b7ww.onrender.com
 
 ## Wnioski
 
